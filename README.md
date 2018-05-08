@@ -1,7 +1,9 @@
 # eos_dice_eosjs
-为EOS的dice合约写了一套前端界面，可以通过浏览器，方便的与dice合约进行交互
+源码说明：为EOS的dice合约写了一套前端界面，可以通过浏览器，方便的与dice合约进行交互
+
 
 使用说明：
+
 1、将git下来的www_dice文件夹，放入eos目录下，与contracts、build、programs这些目录同级。
 
 2、控制台进入到www_dice目录，安装依赖包：npm install --save
@@ -43,3 +45,7 @@
 7、用浏览器打开（建议用Chrome浏览器，便于调试）：http://localhost:8080/
 
 8、开始游戏。
+
+
+演示视频：
+http://v.youku.com/v_show/id_XMzU5MzA2NjM4MA==.html
