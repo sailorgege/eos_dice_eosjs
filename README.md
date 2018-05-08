@@ -1,0 +1,2 @@
+# eos_dice_eosjs
+为EOS的dice合约写了一套前端界面，可以通过浏览器，方便的与dice合约进行交互
